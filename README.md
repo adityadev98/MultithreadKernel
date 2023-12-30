@@ -13,7 +13,7 @@ Skills acquired through this project:
 
 - Creating a kernel from scratch
 - Developing a multi-tasking kernel
-- Handling problematic programs in your operating system
+- Handling problematic programs while developing the operating system
 - Understanding how memory works in computers
 - Differentiating between kernel land, user land, and the protection rings
 - Learning kernel design patterns used by Linux
